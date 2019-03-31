@@ -44,4 +44,8 @@ exports.viewOrder = function (req, res){
     })
 }
 
+exports.viewSingleOrder =  function(req,res){
+    
+}
+
 
